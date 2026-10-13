@@ -16,3 +16,5 @@ Ciao! Sono ch4rch4rbinkie 🇮🇹
 Sono qui per imparare, creare e condividere il mio percorso nel mondo della programmazione.
 
 Il viaggio è appena iniziato! 🚀
+
+Flag{4dm1nr3v34l3d}
